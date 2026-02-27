@@ -2,4 +2,4 @@
 
 [![Language](https://img.shields.io/badge/language-🇬🇧%20English-informational)](./LANGUAGE.md)
 
-WORk-IN-PROGRESS
+WORK-IN-PROGRESS
