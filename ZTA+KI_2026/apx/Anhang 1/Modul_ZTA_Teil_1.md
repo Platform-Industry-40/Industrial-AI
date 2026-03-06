@@ -4,7 +4,7 @@ Audit-fähiger, exemplarischer, generischer Anforderungskatalog
 
 ## Version, Stand und Genehmigung
 
-Dieses Dokument stellt die Version 2.0 des generischen Anforderungskatalogs für eine Zero Trust Architektur (ZTA) mit KI-Assistenz in der Industrie 4.0 dar. Es wurde am xx. xxx 2026 erstellt und von der Geschäftsführung, dem Chief Information Security Officer (CISO) sowie dem verantwortlichen AI Risk Owner genehmigt. Die Genehmigung erfolgte durch Unterschriften in der gedruckten Version dieses Dokuments und dient als Nachweis für die formelle Annahme aller hierin festgelegten Anforderungen. Dieses Modul dient als Grundlage für die detaillierten Prüfschritte in Modul ZTA Teil 2 und Teil 3 und ist so gestaltet, dass es eine maximale Auditierbarkeit gewährleistet.
+Dieses Dokument stellt einen generischen Anforderungskatalogs für eine Zero Trust Architektur (ZTA) mit KI-Assistenz in der Industrie 4.0 dar. Es wurde am <TT. MMMM JJJJ> erstellt und von der Geschäftsführung, dem Chief Information Security Officer (CISO) sowie dem verantwortlichen AI Risk Owner genehmigt. Die Genehmigung erfolgte durch Unterschriften in der gedruckten Version dieses Dokuments und dient als Nachweis für die formelle Annahme aller hierin festgelegten Anforderungen. Dieses Modul dient als Grundlage für die detaillierten Prüfschritte in Modul ZTA Teil 2 und Teil 3 und ist so gestaltet, dass es eine maximale Auditierbarkeit gewährleistet.
 
 ## Rahmenbedingungen und Geltungsbereich
 
