@@ -1,3 +1,0 @@
-# Publication ...
-
-WORK-IN-PROGRESS
