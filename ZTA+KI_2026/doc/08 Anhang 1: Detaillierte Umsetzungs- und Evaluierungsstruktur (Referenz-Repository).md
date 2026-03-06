@@ -2,7 +2,7 @@
 
 Die vollständige, auditierbare und aktuell gepflegte Dokumentation zur Implementierung einer **Zero Trust Architektur (ZTA) mit KI-Assistenz** im Industrie-4.0-Kontext liegt im öffentlichen GitHub-Repository:
 
-[**https://github.com/artkeller/Plattform_Industrie_4.0/tree/main/ZTA%2BKI_2026/Compliance/V2**](https://github.com/artkeller/Plattform_Industrie_4.0/ZTA%2BKI_2026/Compliance/V2) (Stand: Februar 2026 - Version 2, QA-gesichert)
+[**https://github.com/artkeller/Plattform_Industrie_4.0/tree/main/ZTA%2BKI_2026/Compliance/V2**](https://github.com/artkeller/Plattform_Industrie_4.0/tree/main/ZTA%2BKI_2026/Compliance/V2) (Stand: Februar 2026 - Version 2, QA-gesichert)
 
 Dieses Repository enthält alle relevanten Dokumente in Markdown-Format, inklusive interaktiver Diagramme (Mermaid), vollständiger Tabellen, Evidenz-Nachweisen und Versionshistorie. Es dient als lebendige Ergänzung zu diesem Word-Dokument und wird fortlaufend aktualisiert.
 
