@@ -1,5 +1,7 @@
 # Data- und AI-Governance-Rahmenwerk für Zero Trust Architektur (ZTA) mit Künstlicher Intelligenz (KI) in der Industrie 4.0
 
+**TEMPLATE**
+
 ## Version, Stand und Genehmigung
 
 Dieses Dokument stellt die aktuelle Version des Data- und AI-Governance-Rahmenwerks dar, das am xx. xxx 2026 erstellt wurde. Es wurde von der Geschäftsführung, dem Chief Information Security Officer (CISO) und dem Datenschutzbeauftragten genehmigt, um eine maximale Auditierbarkeit zu gewährleisten. Die Genehmigung erfolgte durch Unterschriften, die in der gedruckten Version dieses Dokuments vorliegen, und dient als Nachweis für die formelle Annahme aller hierin festgelegten Regelungen.
