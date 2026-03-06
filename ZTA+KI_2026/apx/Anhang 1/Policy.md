@@ -2,7 +2,7 @@
 
 ## Version, Stand und Genehmigung
 
-Dieses Dokument stellt die Version 3.0 der Policy zum Einsatz von Zero Trust Architektur mit Künstlicher Intelligenz dar, die am 22. Februar 2026 erstellt wurde. Es wurde von der Geschäftsführung, dem Chief Information Security Officer (CISO) und dem Datenschutzbeauftragten genehmigt, um eine maximale Auditierbarkeit zu gewährleisten. Die Genehmigung erfolgte durch Unterschriften, die in der gedruckten Version dieses Dokuments vorliegen, und dient als Nachweis für die formelle Annahme aller hierin festgelegten Regelungen.
+Dieses Dokument stellt die aktuelle Version der Policy zum Einsatz von Zero Trust Architektur mit Künstlicher Intelligenz dar, die am <TT. MMM JJJJ> erstellt wurde. Es wurde von der Geschäftsführung, dem Chief Information Security Officer (CISO) und dem Datenschutzbeauftragten genehmigt, um eine maximale Auditierbarkeit zu gewährleisten. Die Genehmigung erfolgte durch Unterschriften, die in der gedruckten Version dieses Dokuments vorliegen, und dient als Nachweis für die formelle Annahme aller hierin festgelegten Regelungen.
 
 ## Rahmenbedingungen und Geltungsbereich
 
@@ -70,4 +70,4 @@ Der kontinuierliche Verbesserungsprozess umfasst Lessons Learned, Management Rev
 
 ## Anhang: Referenzen und Changelog
 
-Die Referenzen umfassen die EU AI Act unter https://artificialintelligenceact.eu, die NIST SP 800-207, die ISO/IEC 42001:2023 mit Annex A, die DoD Zero Trust Reference Architecture sowie die IEC 62443-Serie. Der Changelog dokumentiert Änderungen: In Version 3.0 wurden alle Inhalte zu vollständigen Sätzen und Tabellen erweitert, um maximale Auditierbarkeit und juristische Lesbarkeit zu gewährleisten, einschließlich Mapping zu Standards und formaler Strukturen.
+Die Referenzen umfassen die EU AI Act unter https://artificialintelligenceact.eu, die NIST SP 800-207, die ISO/IEC 42001:2023 mit Annex A, die DoD Zero Trust Reference Architecture sowie die IEC 62443-Serie. Der Changelog dokumentiert Änderungen: ...
