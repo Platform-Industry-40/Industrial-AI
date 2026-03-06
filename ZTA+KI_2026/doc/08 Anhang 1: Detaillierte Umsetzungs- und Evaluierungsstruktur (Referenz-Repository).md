@@ -6,7 +6,7 @@ Die vollständige, auditierbare und aktuell gepflegte Dokumentation zur Implemen
 
 Dieses Repository enthält alle relevanten Dokumente in Markdown-Format, inklusive interaktiver Diagramme (Mermaid), vollständiger Tabellen, Evidenz-Nachweisen und Versionshistorie. Es dient als lebendige Ergänzung zu diesem Word-Dokument und wird fortlaufend aktualisiert.
 
-## Dreistufige Struktur - Warum, Was, Wie
+## 8.1 Dreistufige Struktur - Warum, Was, Wie
 
 Die gesamte Dokumentation folgt einer klaren, dreistufigen Logik:
 
@@ -19,7 +19,7 @@ Die gesamte Dokumentation folgt einer klaren, dreistufigen Logik:
 
 Zentrales Mapping-Dokument (für Zertifizierung / Audits): → [SoA.md](https://github.com/artkeller/Plattform_Industrie_4.0/blob/main/ZTA%2BKI_2026/Compliance/V2/SoA.md) (Statement of Applicability mit allen 38 Controls aus ISO/IEC 42001 Annex A + IEC 62443 SRs)
 
-## Warum GitHub statt reiner Word-Anhänge?
+## 8.2 Warum GitHub statt reiner Word-Anhänge?
 
 - **Aktuelle Version immer verfügbar**
 - **Vollständige Nachverfolgbarkeit**
@@ -27,7 +27,7 @@ Zentrales Mapping-Dokument (für Zertifizierung / Audits): → [SoA.md](https://
 - **Einfache Kollaboration**
 - **Auditfähigkeit** reproduzierbar
 
-## Empfohlener Einstieg (3 Minuten)
+## 8.3 Empfohlener Einstieg (3 Minuten)
 
 - Verzeichnis:<https://github.com/artkeller/Plattform_Industrie_4.0/tree/main/ZTA%2BKI_2026/Compliance/V2>
 
