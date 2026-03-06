@@ -22,12 +22,6 @@ Für alle weiteren Prüfschritte (ZTA-01-002 bis ZTA-01-007) sowie für alle and
 | ZTA-01-001-06  | Sicherstellung der Integrität und Authentizität der Kontextdaten während der Übertragung (TLS, Signaturen, Zeitstempel). | Alle Kontextdaten sind signiert und über TLS 1.3+ übertragen; Manipulationen werden erkannt und verworfen. | Offen            | IEC 62443 SR 3.1–3.3, NIST SP 800-207 Tenet 2 | TLS-Handshake-Log, Signatur-Verifikationsprotokoll, Manipulations-Test (Fail-Log)         |
 | ZTA-01-001-07  | Überprüfung der Vollständigkeit: Fehlende oder veraltete Kontextattribute müssen erkannt und als Fehler behandelt werden. | Bei ≥1 fehlendem Attribut wird „incomplete context“ gemeldet und Policy-Entscheidung auf Deny gesetzt. | Offen            | NIST SP 800-207 Tenet 1 (never trust)         | Test mit absichtlich deaktiviertem Sensor, Log-Eintrag „deny – incomplete context“, Policy-Konfig |
 
-## Mapping zu Kernstandards (für ZTA-01-001)
-
-- NIST SP 800-207: Tenet 6 (Continuous verification of context)
-- EU AI Act: Art. 15 (Robustness & Cybersecurity)
-- IEC 62443-3-3: SR 1.x (Identification), SR 2.1 (Use Control), SR 5.x (Restricted Data Flow), SR 6.1 (Monitoring)
-- ISO/IEC 42001: A.7 (Data), A.8 (Transparency), A.10 (Continuous monitoring)
 
 **Unterschrift / Genehmigung** 
 
