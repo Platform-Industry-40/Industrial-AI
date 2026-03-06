@@ -20,4 +20,4 @@ Für alle weiteren Anforderungen (ZTA-02 bis ZTA-15) **fehlen** derzeit entsprec
 | ZTA-01-006  | Integration KI-basierter Kontextbewertung: Anomalie-Erkennung durch KI-Modell (z. B. Verhaltensdrift, ungewöhnliche OT-Sequenz) muss in die Policy-Entscheidung einfließen. | Bei KI-erkannter Anomalie (Score > Schwellwert) wird Zugriff blockiert oder auf „human review“ eskaliert. | Offen            | ISO 42001 A.6.2.7, EU AI Act Art. 14 | KI-Inferenz-Log + Policy-Trace, Anomalie-Score + Entscheidung (Beispiel-Log), Alert-Screenshot |
 | ZTA-01-007  | End-to-End-Nachweisbarkeit: Die gesamte Kette von Kontextdatenerfassung → Aggregation → Policy-Entscheidung → Enforcement muss rekonstruierbar sein. | Durchgängiger Trace mit einheitlicher Trace-ID vom Sensor bis zum Enforcement Point. | Offen            | ISO 42001 A.8.4, NIST SP 800-207 Tenet 7 | Vollständiger Trace-Beispiel (Log-Kette mit Trace-ID), Trace-Visu|
 
-Unterschrift
+**Unterschrift / Genehmigung**
