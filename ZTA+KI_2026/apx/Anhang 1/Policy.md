@@ -71,3 +71,5 @@ Der kontinuierliche Verbesserungsprozess umfasst Lessons Learned, Management Rev
 ## Anhang: Referenzen und Changelog
 
 Die Referenzen umfassen die EU AI Act unter https://artificialintelligenceact.eu, die NIST SP 800-207, die ISO/IEC 42001:2023 mit Annex A, die DoD Zero Trust Reference Architecture sowie die IEC 62443-Serie. Der Changelog dokumentiert Änderungen: ...
+
+**Unterschrift / Genehmigung**
