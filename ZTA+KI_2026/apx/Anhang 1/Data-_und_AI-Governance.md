@@ -66,7 +66,7 @@ Die Anforderungen ZTA-09 bis ZTA-15 sind vollständig auf die folgenden Standard
 
 ## Anhang: Vollständiges Statement of Applicability und Changelog
 
-Im Anhang dieses Dokuments befindet sich die vollständige Mapping-Tabelle zu allen relevanten Controls (38 aus ISO 42001, SRs aus IEC 62443-3-3). Der Changelog dokumentiert: In Version 3.0 (Erweiterung) wurden ZTA-09 bis ZTA-15 hinzugefügt, um weitere NIST-Tenets, OT-Resilienz-Anforderungen (IEC 62443), AI-spezifische Robustheit (EU AI Act) und Automatisierungs-Aspekte abzudecken. Zusätzlich wurde der Abschnitt "Klassifizierung und Risikobewertung" um Hinweise zur Überklassifizierung erweitert.
+Im Anhang dieses Dokuments befindet sich die vollständige Mapping-Tabelle zu allen relevanten Controls (38 aus ISO 42001, SRs aus IEC 62443-3-3). Der Changelog dokumentiert: ...
 
 **Unterschrift / Genehmigung**  
 
